@@ -1,7 +1,7 @@
 # Market Mix Modelling
 
 ## Resources
-[ANalyst's guide to MMM](https://facebookexperimental.github.io/Robyn/docs/analysts-guide-to-MMM)
+[Analyst's guide to MMM](https://facebookexperimental.github.io/Robyn/docs/analysts-guide-to-MMM)
 
 ## Notes
 
